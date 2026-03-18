@@ -1,6 +1,4 @@
 # SQLBolt Exercises
-# SQLBolt Exercise Solutions
-
 [![SQL](https://img.shields.io/badge/SQL-Core%20Concepts-blue.svg)](https://sqlbolt.com/)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
