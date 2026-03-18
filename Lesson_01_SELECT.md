@@ -23,20 +23,20 @@ We will be using a database with data about some of Pixar's classic movies for m
 
 **Question-1:** *Find the title of each film.*
 
-**Query:** SELECT title FROM movies;
+**Query:** `SELECT title FROM movies;`
 
 **Question-2:** *Find the director of each film.*
 
-**Query:** SELECT director FROM movies;
+**Query:** `SELECT director FROM movies;`
 
 **Question-3:** *Find the title and director of each film.*
 
-**Query:** SELECT title, director FROM movies;
+**Query:** `SELECT title, director FROM movies;`
 
 **Question-4:** *Find the title and year of each film.*
 
-**Query:** SELECT title, year FROM movies;
+**Query:** `SELECT title, year FROM movies;`
 
 **Question-5:** *Find all the information about each film.*
 
-**Query:** SELECT * FROM movies;
+**Query:** `SELECT * FROM movies;`
