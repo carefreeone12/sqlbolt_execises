@@ -22,9 +22,9 @@ The repository is modularized by lesson. Each Markdown (`.md`) file corresponds 
 Here is the index of all lessons and my current completion status:
 
 - [x] [Lesson 1: SELECT queries 101](./Lesson_01_SELECT.md)
-- [ ] [Lesson 2: Queries with constraints (Pt. 1)](./Lesson_02_Constraints_1.md)
-- [ ] [Lesson 3: Queries with constraints (Pt. 2)](./Lesson_03_Constraints_2.md)
-- [ ] [Lesson 4: Filtering and sorting Query results](./Lesson_04_Filtering_Sorting.md)
+- [x] [Lesson 2: Queries with constraints (Pt. 1)](./Lesson_02_Constraints_1.md)
+- [x] [Lesson 3: Queries with constraints (Pt. 2)](./Lesson_03_Constraints_2.md)
+- [x] [Lesson 4: Filtering and sorting Query results](./Lesson_04_Filtering_Sorting.md)
 - [ ] [Lesson 5: Simple SELECT Queries Review](./Lesson_05_Review.md)
 - [ ] [Lesson 6: Multi-table queries with JOINs](./Lesson_06_JOINs.md)
 - [ ] [Lesson 7: OUTER JOINs](./Lesson_07_OUTER_JOINs.md)
